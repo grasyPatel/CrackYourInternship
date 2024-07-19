@@ -8,6 +8,18 @@ public class sortTheColors {
         System.out.println(Arrays.toString(nums));
     }
     public static void sortColors(int[] nums) {
+        
+        int arr[]={0,0,0};
+        for(int num:nums){
+            arr[num]++;
+        }
+        int index=0;
+        for(int i=0;i<3;i++){
+            for(int j=0;j<arr[i];j++){
+                nums[index]=i;
+                index++;
+            }
+        }
         // boolean swap;
         // for(int i=0;i<nums.length;i++){
         //     swap=false;
@@ -24,17 +36,6 @@ public class sortTheColors {
         //     }
         // }
         //improving TC;
-        int arr[]={0,0,0};
-        for(int num:nums){
-            arr[num]++;
-        }
-        int index=0;
-        for(int i=0;i<3;i++){
-            for(int j=0;j<arr[i];j++){
-                nums[index]=i;
-                index++;
-            }
-        }
         
     }
     
