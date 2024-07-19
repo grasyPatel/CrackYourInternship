@@ -1,2 +1,6 @@
 # CrackYourInternship
-Repository for tracking progress on the DSA Sheet by Arsh Goyal. Solving 4-5 data structures and algorithms problems daily for 45-60 days to improve coding skills and prepare for technical interviews.
+## Progress Tracker
+
+### Arrays
+- [ ] Problem 1: Find the Duplicate Number
+- [ ] Problem 1: Remove Duplicates from sorted Array
