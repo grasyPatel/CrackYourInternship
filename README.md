@@ -10,3 +10,4 @@
 - [X] Problem 6: Best time to buy and sell Stock
 - [X] Problem 7: Chocolate Distribution problem
 - [X] Problem 8: Find all Duplicates in Array
+- [X] Problem 9: Two SumI
