@@ -13,3 +13,4 @@
 - [X] Problem 9: Two SumI
 ### Strings
 - [X] Problem 1: Valid Parentheses
+- [X] Problem 2: Printing all duplicates chararcter in String 
