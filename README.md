@@ -8,3 +8,4 @@
 - [X] Problem 4: set the matrix Zerors
 - [X] Problem 5: Move Zerors
 - [X] Problem 6: Best time to buy and sell Stock
+- [X] Problem 7: Chocolate Distribution problem
