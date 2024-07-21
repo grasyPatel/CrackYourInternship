@@ -18,3 +18,7 @@
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
+  
+
+### Mathematicals
+- [x] Problem 1: Add Binary  
