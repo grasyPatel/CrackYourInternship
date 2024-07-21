@@ -16,5 +16,5 @@
 - [X] Problem 2: Printing all duplicates chararcter in String 
 - [x] Problem 3: Find the index of first occurrence in a String 
 
-###Linked List
+### Linked List
 - [x] Problem 1: Middle of the LinkedList
