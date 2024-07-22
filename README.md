@@ -11,8 +11,6 @@
 - [X] Problem 7: Chocolate Distribution problem
 - [X] Problem 8: Find all Duplicates in Array
 - [X] Problem 9: Two SumI
-
-
 ### Strings
 - [X] Problem 1: Valid Parentheses
 - [X] Problem 2: Printing all duplicates chararcter in String 
