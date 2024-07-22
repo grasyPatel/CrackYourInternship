@@ -11,10 +11,13 @@
 - [X] Problem 7: Chocolate Distribution problem
 - [X] Problem 8: Find all Duplicates in Array
 - [X] Problem 9: Two SumI
+
+
 ### Strings
 - [X] Problem 1: Valid Parentheses
 - [X] Problem 2: Printing all duplicates chararcter in String 
-- [x] Problem 3: Find the index of first occurrence in a String 
+- [X] Problem 3: Find the index of first occurrence in a String 
+- [X] Problem 4: Valid PalindromeII
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
