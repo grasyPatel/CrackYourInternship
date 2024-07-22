@@ -12,6 +12,7 @@
 - [X] Problem 8: Find all Duplicates in Array
 - [X] Problem 9: Two SumI
 - [X] Problem 10: Majority Element 
+- [x] Problem 11: Container With Most Water
 
 ### Strings
 - [X] Problem 1: Valid Parentheses
