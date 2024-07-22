@@ -25,3 +25,4 @@
 
 ### Mathematicals
 - [x] Problem 1: Add Binary  
+- [X] Problem 2: Excel Sheet Column Title
