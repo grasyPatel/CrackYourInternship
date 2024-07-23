@@ -31,3 +31,4 @@
 ### Mathematicals
 - [x] Problem 1: Add Binary  
 - [X] Problem 2: Excel Sheet Column Title
+- [x] Problem 3: Product array Puzzle
