@@ -24,6 +24,7 @@
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
+- [X] Problem 2: Remove Linked List elements
   
 
 ### Mathematicals
