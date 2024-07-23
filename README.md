@@ -13,6 +13,8 @@
 - [X] Problem 9: Two SumI
 - [X] Problem 10: Majority Element 
 - [x] Problem 11: Container With Most Water
+- [X] Problem 12: Reverse Pairs
+
 
 ### Strings
 - [X] Problem 1: Valid Parentheses
