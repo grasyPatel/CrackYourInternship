@@ -36,3 +36,4 @@
 
 ## Matrix
 - [X] Problem 1: Rotate Image
+- [X] Problem 2: Spiral Matrix
