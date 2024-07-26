@@ -18,7 +18,7 @@
 - [X] Problem 14: 3Sum Leetcode
 - [x] Problem 15: SubArray Sum equals k
 - [X] Problem 16: Merge two Sorted Arrays 
-- [X] Problem 17: Maximum Points You can Obtain From Cards
+- [X] Problem 17: Maximum Points You can Obtain From Cards (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 
 ### Strings
 - [X] Problem 1: Valid Parentheses
