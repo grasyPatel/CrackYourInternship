@@ -17,6 +17,7 @@
 - [X] Problem 13: Best time to buy and sell Stock 2
 - [X] Problem 14: 3Sum Leetcode
 - [x] Problem 15: SubArray Sum equals k
+- [X] Problem 16: Merge two Sorted Arrays 
 
 
 ### Strings
