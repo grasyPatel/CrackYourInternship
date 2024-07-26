@@ -38,6 +38,7 @@
 - [x] Problem 1: Add Binary  
 - [X] Problem 2: Excel Sheet Column Title
 - [x] Problem 3: Product array Puzzle
+- [X] Problem 4: Maximum Product of three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
 
 
 ### Matrix
