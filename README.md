@@ -21,6 +21,7 @@
 - [X] Problem 17: Maximum Points You can Obtain From Cards (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
 - [X] Problem 18: Word Search (https://leetcode.com/problems/word-search/)
 - [X] Problem 19: Game of Life (https://leetcode.com/problems/game-of-life/)
+- [X] Problem 20: Jump Game (https://leetcode.com/problems/jump-game/)
 ### Strings
 - [X] Problem 1: Valid Parentheses
 - [X] Problem 2: Printing all duplicates chararcter in String 
