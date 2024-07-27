@@ -2,15 +2,15 @@
 ## Progress Tracker
 
 ### Arrays
-- [X] Problem 1: Find the Duplicate Number
-- [X] Problem 2: Remove Duplicates from sorted Array
-- [X] Problem 3: Sort the colors
-- [X] Problem 4: set the matrix Zerors
-- [X] Problem 5: Move Zerors
-- [X] Problem 6: Best time to buy and sell Stock
+- [X] Problem 1: Find the Duplicate Number (https://leetcode.com/problems/find-the-duplicate-number/description/)
+- [X] Problem 2: Remove Duplicates from sorted Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+- [X] Problem 3: Sort the colors (https://leetcode.com/problems/sort-colors/description/)
+- [X] Problem 4: set the matrix Zerors (https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [X] Problem 5: Move Zerors (https://leetcode.com/problems/move-zeroes/description/)
+- [X] Problem 6: Best time to buy and sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [X] Problem 7: Chocolate Distribution problem
-- [X] Problem 8: Find all Duplicates in Array
-- [X] Problem 9: Two SumI
+- [X] Problem 8: Find all Duplicates in Array (https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+- [X] Problem 9: Two SumI (https://leetcode.com/problems/two-sum/description/)
 - [X] Problem 10: Majority Element 
 - [x] Problem 11: Container With Most Water
 - [X] Problem 12: Reverse Pairs
