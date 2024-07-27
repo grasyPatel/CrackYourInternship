@@ -22,12 +22,15 @@
 - [X] Problem 18: Word Search (https://leetcode.com/problems/word-search/)
 - [X] Problem 19: Game of Life (https://leetcode.com/problems/game-of-life/)
 - [X] Problem 20: Jump Game (https://leetcode.com/problems/jump-game/)
+
+
 ### Strings
 - [X] Problem 1: Valid Parentheses
 - [X] Problem 2: Printing all duplicates chararcter in String 
 - [X] Problem 3: Find the index of first occurrence in a String 
 - [X] Problem 4: Valid PalindromeII
 - [X] Problem 5: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
+- [X] Problem 6: Longest Repeating Character Replacement (https://leetcode.com/problems/longest-repeating-character-replacement/)
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
