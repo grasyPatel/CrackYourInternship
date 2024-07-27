@@ -39,6 +39,7 @@
 - [X] Problem 2: Excel Sheet Column Title
 - [x] Problem 3: Product array Puzzle
 - [X] Problem 4: Maximum Product of three Numbers (https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- [X] Problem 5: Minimum Moves to Equal Array Element 2 (https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)
 
 
 ### Matrix
