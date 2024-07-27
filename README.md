@@ -25,6 +25,7 @@
 - [X] Problem 2: Printing all duplicates chararcter in String 
 - [X] Problem 3: Find the index of first occurrence in a String 
 - [X] Problem 4: Valid PalindromeII
+- [X] Problem 5: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
