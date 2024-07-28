@@ -22,6 +22,7 @@
 - [X] Problem 18: Word Search (https://leetcode.com/problems/word-search/)
 - [X] Problem 19: Game of Life (https://leetcode.com/problems/game-of-life/)
 - [X] Problem 20: Jump Game (https://leetcode.com/problems/jump-game/)
+- [X] Problem 21: Subarray Sums Divisible by K (https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 
 
 ### Strings
