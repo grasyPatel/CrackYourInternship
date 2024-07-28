@@ -55,3 +55,4 @@
 
 ### Stacks And Queues
 - [X] Problem 1: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/description/)
+- [X] Problem 2: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/)
