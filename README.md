@@ -23,6 +23,7 @@
 - [X] Problem 19: Game of Life (https://leetcode.com/problems/game-of-life/)
 - [X] Problem 20: Jump Game (https://leetcode.com/problems/jump-game/)
 - [X] Problem 21: Subarray Sums Divisible by K (https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- [X] Problem 22: Largest Rectangle in Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 
 ### Strings
@@ -32,6 +33,7 @@
 - [X] Problem 4: Valid PalindromeII
 - [X] Problem 5: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 - [X] Problem 6: Longest Repeating Character Replacement (https://leetcode.com/problems/longest-repeating-character-replacement/)
+
 
 ### Linked List
 - [x] Problem 1: Middle of the LinkedList
