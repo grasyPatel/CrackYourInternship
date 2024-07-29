@@ -54,6 +54,7 @@
 ### Matrix
 - [X] Problem 1: Rotate Image
 - [X] Problem 2: Spiral Matrix
+- [X] Problem 3: Number of Islands (https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/)
 
 
 ### Stacks And Queues
