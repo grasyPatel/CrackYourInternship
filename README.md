@@ -24,7 +24,7 @@
 - [X] Problem 20: Jump Game (https://leetcode.com/problems/jump-game/)
 - [X] Problem 21: Subarray Sums Divisible by K (https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [X] Problem 22: Largest Rectangle in Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/)
-
+- [X] Problem 23: Insert Delete GetRandom O(1)-Duplicates Allowed (https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
 
 ### Strings
 - [X] Problem 1: Valid Parentheses
