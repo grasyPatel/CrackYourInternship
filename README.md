@@ -42,6 +42,8 @@
 - [x] Problem 3: Merge Two Sorted LinkedList 
 - [X] Problem 4: Convert Binary Number in a LinkedList to Integer
 - [X] Problem 5: Reverse LinkedList 
+- [X] Problem 5: Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/description/)
+- [X] Problem 6: Remove Duplicates From Linked List (https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
   
 
 ### Mathematicals
