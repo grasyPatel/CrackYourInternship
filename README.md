@@ -45,6 +45,7 @@
 - [X] Problem 5: Reverse LinkedList 
 - [X] Problem 5: Linked List Cycle (https://leetcode.com/problems/linked-list-cycle/description/)
 - [X] Problem 6: Remove Duplicates From Linked List (https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [X] Problem 7: Intersection of two Linked List (https://leetcode.com/problems/intersection-of-two-linked-lists/)
   
 
 ### Mathematicals
