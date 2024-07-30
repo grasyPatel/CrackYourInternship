@@ -26,6 +26,7 @@
 - [X] Problem 22: Largest Rectangle in Histogram (https://leetcode.com/problems/largest-rectangle-in-histogram/)
 - [X] Problem 23: Insert Delete GetRandom O(1)-Duplicates Allowed (https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)
 - [X] Problem 24: Max Value of Equation (https://leetcode.com/problems/max-value-of-equation/)
+- [X] Problem 25: 4Sum (https://leetcode.com/problems/4sum/description/)
 
 ### Strings
 - [X] Problem 1: Valid Parentheses
