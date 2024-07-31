@@ -36,6 +36,7 @@
 - [X] Problem 5: Longest Common Prefix (https://leetcode.com/problems/longest-common-prefix/)
 - [X] Problem 6: Longest Repeating Character Replacement (https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [X] Problem 7: Generate Parentheses (https://leetcode.com/problems/generate-parentheses/)
+- [X] Problem 8: Simplify Path (https://leetcode.com/problems/simplify-path/)
 
 
 ### Linked List
