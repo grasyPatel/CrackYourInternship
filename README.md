@@ -8,7 +8,7 @@
 - [X] Problem 4: set the matrix Zerors (https://leetcode.com/problems/set-matrix-zeroes/description/)
 - [X] Problem 5: Move Zerors (https://leetcode.com/problems/move-zeroes/description/)
 - [X] Problem 6: Best time to buy and sell Stock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
-- [X] Problem 7: Chocolate Distribution problem
+- [X] Problem 7: Chocolate Distribution problem (https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
 - [X] Problem 8: Find all Duplicates in Array (https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 - [X] Problem 9: Two SumI (https://leetcode.com/problems/two-sum/description/)
 - [X] Problem 10: Majority Element (https://leetcode.com/problems/majority-element/description/)
