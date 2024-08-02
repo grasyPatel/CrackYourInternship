@@ -64,7 +64,7 @@
 - [X] Problem 1: Rotate Image (https://leetcode.com/problems/rotate-image/description/)
 - [X] Problem 2: Spiral Matrix (https://leetcode.com/problems/spiral-matrix/description/)
 - [X] Problem 3: Number of Islands (https://www.geeksforgeeks.org/find-the-number-of-islands-using-dfs/)
-
+- [X] Problem 4: Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’ (https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x/)
 
 ### Stacks And Queues
 - [X] Problem 1: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/description/)
