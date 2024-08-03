@@ -78,3 +78,4 @@
 - [X] Problem 2: Radix Sort (https://www.geeksforgeeks.org/radix-sort/)
 - [X] Problem 3: Find Peak Element (https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)
 - [X] Problem 4: Search in Rotated Array (https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [X] Problem 5: Split Array Largest Sum (https://leetcode.com/problems/split-array-largest-sum/)
