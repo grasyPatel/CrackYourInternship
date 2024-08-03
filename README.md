@@ -77,3 +77,4 @@
 - [X] Problem 1: Check if reversing a sub array make the array sorted (https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)
 - [X] Problem 2: Radix Sort (https://www.geeksforgeeks.org/radix-sort/)
 - [X] Problem 3: Find Peak Element (https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)
+- [X] Problem 4: Search in Rotated Array (https://leetcode.com/problems/search-in-rotated-sorted-array/)
