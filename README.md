@@ -70,3 +70,8 @@
 - [X] Problem 1: Implement Queue using Stacks (https://leetcode.com/problems/implement-queue-using-stacks/description/)
 - [X] Problem 2: Daily Temperatures (https://leetcode.com/problems/daily-temperatures/)
 - [X] Problem 3: Backspace String Compare (https://leetcode.com/problems/backspace-string-compare/)
+
+
+### Sorting And Searching
+
+- [X] Problem 1: Check if reversing a sub array make the array sorted (https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)
