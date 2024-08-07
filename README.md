@@ -91,3 +91,5 @@
 - [X] Problem 4: Furthest Building You can Reach (https://leetcode.com/problems/furthest-building-you-can-reach/description/)
 - [X] Problem 5: Kth smallest Element in a sorted Matrix (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
 - [X] Problem 6: Reorganize String (https://leetcode.com/problems/reorganize-string/description/)
+- [X] Problem 7: Find the most Competitive Subsquence (https://leetcode.com/problems/find-the-most-competitive-subsequence/)
+- [X] Problem 8: K closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/)
