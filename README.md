@@ -81,3 +81,13 @@
 - [X] Problem 3: Find Peak Element (https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)
 - [X] Problem 4: Search in Rotated Array (https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [X] Problem 5: Split Array Largest Sum (https://leetcode.com/problems/split-array-largest-sum/)
+
+
+### Heap (PriorityQueue)
+
+- [X] Problem 1: Top K frequent Element (https://leetcode.com/problems/top-k-frequent-elements/)
+- [X] Problem 2: Kth largest Element in an array (https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+- [X] Problem 3: Ugly Number 2 (https://leetcode.com/problems/ugly-number-ii/description/)
+- [X] Problem 4: Furthest Building You can Reach (https://leetcode.com/problems/furthest-building-you-can-reach/description/)
+- [X] Problem 5: Kth smallest Element in a sorted Matrix (https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)
+- [X] Problem 6: Reorganize String (https://leetcode.com/problems/reorganize-string/description/)
