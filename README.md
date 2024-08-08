@@ -93,3 +93,11 @@
 - [X] Problem 6: Reorganize String (https://leetcode.com/problems/reorganize-string/description/)
 - [X] Problem 7: Find the most Competitive Subsquence (https://leetcode.com/problems/find-the-most-competitive-subsequence/)
 - [X] Problem 8: K closest Points to Origin (https://leetcode.com/problems/k-closest-points-to-origin/)
+
+
+### Greedy
+- [X] Problem 1: Gas Station (https://leetcode.com/problems/gas-station/description/)
+
+- [X] Problem 2: Minimum cost for acquiring all coins with k extra coins allowed with every coin (https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/)
+- [X] Problem 3: Restore the Array From Adjacent Pairs (https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)
+- [X] Problem 4: Task Scheduler (https://leetcode.com/problems/task-scheduler/submissions/1349152089/)
