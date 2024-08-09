@@ -101,3 +101,8 @@
 - [X] Problem 2: Minimum cost for acquiring all coins with k extra coins allowed with every coin (https://www.geeksforgeeks.org/minimum-cost-for-acquiring-all-coins-with-k-extra-coins-allowed-with-every-coin/)
 - [X] Problem 3: Restore the Array From Adjacent Pairs (https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/description/)
 - [X] Problem 4: Task Scheduler (https://leetcode.com/problems/task-scheduler/submissions/1349152089/)
+- [X] Problem 5: Minimum Deletions To make Character frequencies unique (https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)
+- [X] Problem 6: Remove K digits (https://leetcode.com/problems/remove-k-digits/)
+- [X] Problem 7: Chocola (https://www.spoj.com/problems/CHOCOLA/)
+- [X] Problem 8: Non-overlapping Intervals (https://leetcode.com/problems/non-overlapping-intervals/)
+- [X] Problem 9: Minimum Time to make Rope Colorful (https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)
